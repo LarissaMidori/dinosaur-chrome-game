@@ -2,3 +2,19 @@
     margin: 0;
     padding: 0;
 }
+
+.dino {
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    bottom: 0;
+    background-image:url(img/dino.png);
+}
+
+.cactus {
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    bottom: 0;
+    background-image:url(img/cactus.png);
+}
